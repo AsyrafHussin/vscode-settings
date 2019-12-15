@@ -1,4 +1,4 @@
-# My Current Visual Studio Code Settings
+# My Visual Studio Code Settings
 
 I personally use this settings for my VS Code
 
