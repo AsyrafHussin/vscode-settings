@@ -14,9 +14,9 @@ I personally use this settings for my VS Code
     "editor.cursorBlinking": "solid",
     "editor.cursorStyle": "line",
     "editor.cursorWidth": 5,
-    "editor.fontFamily": "Dank Mono",
+    "editor.fontFamily": "Dank Mono, Menlo, Monaco, 'Courier New', monospace",
     "editor.fontLigatures": true,
-    "editor.fontSize": 17,
+    "editor.fontSize": 16,
     "editor.fontWeight": "400",
     "editor.formatOnPaste": true,
     "editor.formatOnSave": true,
@@ -48,13 +48,13 @@ I personally use this settings for my VS Code
     "terminal.integrated.fontSize": 14,
     "terminal.integrated.macOptionIsMeta": true,
     "vsicons.dontShowNewVersionMessage": true,
-    "workbench.colorTheme": "Monokai",
     "workbench.editor.enablePreview": false,
     "workbench.editor.tabCloseButton": "right",
     "workbench.fontAliasing": "auto",
     "workbench.iconTheme": "material-icon-theme",
     "workbench.startupEditor": "newUntitledFile",
     "workbench.tree.renderIndentGuides": "always",
-    "zenMode.centerLayout": false
+    "zenMode.centerLayout": false,
+    "workbench.colorTheme": "Atom One Dark",
 }
 ```
