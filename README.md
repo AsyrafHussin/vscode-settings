@@ -58,3 +58,14 @@ I personally use this settings for my VS Code
     "workbench.colorTheme": "Atom One Dark",
 }
 ```
+
+## Install Extensions
+With bash (Linux, OSX and WSL) 
+```bash
+cat extensions.txt | xargs code --list-extensions {}
+```
+
+Windows with PowerShell
+```bash
+cat extensions.txt |% { code --install-extension $_}
+```
