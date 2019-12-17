@@ -60,7 +60,7 @@ I personally use this settings for my VS Code
 ```
 
 ## Install Extensions
-With bash (Linux, OSX and WSL) 
+Using bash (Linux, OSX and WSL) 
 ```bash
 cat extensions.txt | xargs code --list-extensions {}
 ```
