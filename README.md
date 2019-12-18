@@ -30,7 +30,6 @@ I personally use this settings for my VS Code
     "editor.selectionHighlight": false,
     "editor.snippetSuggestions": "top",
     "eslint.alwaysShowStatus": true,
-    "eslint.autoFixOnSave": true,
     "eslint.run": "onType",
     "explorer.confirmDragAndDrop": false,
     "files.exclude": {
@@ -56,16 +55,22 @@ I personally use this settings for my VS Code
     "workbench.tree.renderIndentGuides": "always",
     "zenMode.centerLayout": false,
     "workbench.colorTheme": "Atom One Dark",
+    "editor.codeActionsOnSave": {
+        "source.fixAll.eslint": true
+    },
 }
 ```
 
 ## Install Extensions
-Using bash (Linux, OSX and WSL) 
+
+Using bash (Linux, OSX and WSL)
+
 ```bash
 cat extensions.txt | xargs code --list-extensions {}
 ```
 
 Windows with PowerShell
+
 ```bash
 cat extensions.txt |% { code --install-extension $_}
 ```
