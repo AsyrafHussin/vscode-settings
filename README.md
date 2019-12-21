@@ -49,7 +49,8 @@ I personally use this settings for my VS Code
                         "support.class",
                         "support.type",
                         "storage.type",
-                        "variable.parameter"
+                        "variable.language",
+                        "variable.parameter",
                     ],
                     "settings": {
                         "fontStyle": "italic"
