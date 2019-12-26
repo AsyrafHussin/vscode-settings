@@ -10,6 +10,7 @@ alexisvt.flutter-snippets
 Atishay-Jain.All-Autocomplete
 austenc.laravel-blade-spacer
 brian-anders.sublime-duplicate-text
+burkeholland.simple-react-snippets
 christian-kohler.npm-intellisense
 cjhowe7.laravel-blade
 CoenraadS.bracket-pair-colorizer-2
@@ -19,7 +20,6 @@ dbaeumer.vscode-eslint
 deerawan.vscode-faker
 dzannotti.vscode-babel-coloring
 ecmel.vscode-html-css
-EQuimper.react-native-react-redux
 esbenp.prettier-vscode
 formulahendry.auto-close-tag
 formulahendry.auto-rename-tag
@@ -46,6 +46,7 @@ reblws.one-dark-flatland-monokai
 richie5um2.vscode-sort-json
 robinbentley.sass-indented
 shd101wyy.markdown-preview-enhanced
+steoates.autoimport
 taichi.react-beautify
 techer.open-in-browser
 thekalinga.bootstrap4-vscode
