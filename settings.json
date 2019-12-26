@@ -39,9 +39,10 @@
         },
         {
           "scope": [
+            "storage.type",
             "support.class",
             "support.type",
-            "storage.type",
+            "variable.language",
             "variable.parameter"
           ],
           "settings": {
@@ -51,6 +52,10 @@
       ]
     }
   },
+  "emmet.includeLanguages": {
+    "javascript": "javascriptreact"
+  },
+  "emmet.showSuggestionsAsSnippets": true,
   "eslint.alwaysShowStatus": true,
   "eslint.run": "onType",
   "explorer.confirmDragAndDrop": false,

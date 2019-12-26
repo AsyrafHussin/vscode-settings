@@ -46,11 +46,11 @@ I personally use this settings for my VS Code
                 },
                 {
                     "scope": [
+                        "storage.type",
                         "support.class",
                         "support.type",
-                        "storage.type",
                         "variable.language",
-                        "variable.parameter",
+                        "variable.parameter"
                     ],
                     "settings": {
                         "fontStyle": "italic"
@@ -59,6 +59,10 @@ I personally use this settings for my VS Code
             ]
         }
     },
+    "emmet.includeLanguages": {
+        "javascript": "javascriptreact"
+    },
+    "emmet.showSuggestionsAsSnippets": true,
     "eslint.alwaysShowStatus": true,
     "eslint.run": "onType",
     "explorer.confirmDragAndDrop": false,
