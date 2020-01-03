@@ -35,6 +35,7 @@ I personally use this settings for my VS Code
     "editor.scrollBeyondLastLine": false,
     "editor.selectionHighlight": false,
     "editor.snippetSuggestions": "top",
+    "editor.suggestSelection": "first",
     "editor.tokenColorCustomizations": {
         "[One Dark Flatland Monokai]": {
             "textMateRules": [
@@ -67,7 +68,11 @@ I personally use this settings for my VS Code
     "eslint.run": "onType",
     "explorer.confirmDragAndDrop": false,
     "files.exclude": {
+        "**/.classpath": true,
+        "**/.factorypath": true,
         "**/.next/**": true,
+        "**/.project": true,
+        "**/.settings": true,
         "**/apk": true,
         "**/node_modules/**": true,
         "**/plugins": true
@@ -76,12 +81,19 @@ I personally use this settings for my VS Code
     "files.trimFinalNewlines": true,
     "files.trimTrailingWhitespace": true,
     "javascript.updateImportsOnFileMove.enabled": "always",
+    "newFile.defaultBaseFileName": "project",
+    "newFile.expandBraces": false,
+    "newFile.relativeTo": "file",
+    "newFile.rootDirectory": "~",
+    "newFile.showPathRelativeTo": "project",
     "prettier.prettierPath": "/usr/local/lib/node_modules/prettier",
     "search.showLineNumbers": true,
     "terminal.integrated.fontFamily": "Dank Mono",
     "terminal.integrated.fontSize": 14,
     "terminal.integrated.macOptionIsMeta": true,
+    "typescript.updateImportsOnFileMove.enabled": "always",
     "vsicons.dontShowNewVersionMessage": true,
+    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
     "workbench.colorTheme": "One Dark Flatland Monokai",
     "workbench.editor.enablePreview": false,
     "workbench.editor.tabCloseButton": "right",
