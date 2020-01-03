@@ -81,6 +81,12 @@ I personally use this settings for my VS Code
     "files.trimFinalNewlines": true,
     "files.trimTrailingWhitespace": true,
     "javascript.updateImportsOnFileMove.enabled": "always",
+    "material-icon-theme.folders.associations": {
+        "bloc": "controller",
+        "global_state": "global",
+        "state": "controller",
+        "ui": "layout"
+    },
     "newFile.defaultBaseFileName": "project",
     "newFile.expandBraces": false,
     "newFile.relativeTo": "file",
