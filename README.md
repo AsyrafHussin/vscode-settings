@@ -75,7 +75,9 @@ I personally use this settings for my VS Code
         "**/.settings": true,
         "**/apk": true,
         "**/node_modules/**": true,
-        "**/plugins": true
+        "**/plugins": true,
+        "**/.dart_tool": true,
+        "**/.idea": true
     },
     "files.insertFinalNewline": true,
     "files.trimFinalNewlines": true,
