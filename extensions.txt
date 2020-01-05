@@ -33,6 +33,7 @@ ionutvmi.path-autocomplete
 jeroen-meijer.pubspec-assist
 kisstkondoros.vscode-gutter-preview
 leizongmin.node-module-intellisense
+marcelovelasquez.flutter-tree
 mgmcdermott.vscode-language-babel
 mikestead.dotenv
 mrmlnc.vscode-scss
