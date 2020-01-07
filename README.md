@@ -6,8 +6,10 @@ I personally use this settings for my VS Code
 
 ```js
 {
-    "editor.codeActionsOnSave": {
-        "source.fixAll.eslint": true
+    "[javascript]": {
+        "editor.codeActionsOnSave": {
+            "source.fixAll.eslint": true
+        },
     },
     "[typescript]": {
         "editor.defaultFormatter": "esbenp.prettier-vscode"
