@@ -87,7 +87,8 @@ I personally use this settings for my VS Code
         "bloc": "controller",
         "global_state": "global",
         "state": "controller",
-        "ui": "layout"
+        "ui": "layout",
+        "widgets": "components"
     },
     "newFile.defaultBaseFileName": "project",
     "newFile.expandBraces": false,
