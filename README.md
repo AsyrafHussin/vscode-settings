@@ -6,6 +6,9 @@ I personally use this settings for my VS Code
 
 ```js
 {
+    "editor.codeActionsOnSave": {
+        "source.fixAll.eslint": true
+    },
     "[typescript]": {
         "editor.defaultFormatter": "esbenp.prettier-vscode"
     },
@@ -14,9 +17,6 @@ I personally use this settings for my VS Code
     "dart.previewFlutterUiGuides": true,
     "debug.toolBarLocation": "floating",
     "editor.autoIndent": "full",
-    "editor.codeActionsOnSave": {
-        "source.fixAll.eslint": true
-    },
     "editor.cursorBlinking": "solid",
     "editor.cursorStyle": "line",
     "editor.cursorWidth": 5,
