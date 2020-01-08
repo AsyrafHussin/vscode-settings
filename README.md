@@ -102,7 +102,6 @@ I personally use this settings for my VS Code
   "terminal.integrated.macOptionIsMeta": true,
   "typescript.updateImportsOnFileMove.enabled": "always",
   "vsicons.dontShowNewVersionMessage": true,
-  "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
   "workbench.colorTheme": "One Dark Flatland Monokai",
   "workbench.editor.enablePreview": false,
   "workbench.editor.tabCloseButton": "right",
