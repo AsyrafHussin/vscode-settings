@@ -20,6 +20,7 @@ dbaeumer.vscode-eslint
 deerawan.vscode-faker
 dkundel.vscode-new-file
 dzannotti.vscode-babel-coloring
+ecmel.vscode-html-css
 esbenp.prettier-vscode
 formulahendry.auto-close-tag
 formulahendry.auto-rename-tag
