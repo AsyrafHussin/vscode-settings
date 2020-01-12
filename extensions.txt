@@ -9,11 +9,10 @@ akamud.vscode-theme-onedark
 albert.TabOut
 alexisvt.flutter-snippets
 Atishay-Jain.All-Autocomplete
-austenc.laravel-blade-spacer
+bmewburn.vscode-intelephense-client
 brian-anders.sublime-duplicate-text
 burkeholland.simple-react-snippets
 christian-kohler.npm-intellisense
-cjhowe7.laravel-blade
 CoenraadS.bracket-pair-colorizer-2
 Dart-Code.dart-code
 Dart-Code.flutter
@@ -21,7 +20,6 @@ dbaeumer.vscode-eslint
 deerawan.vscode-faker
 dkundel.vscode-new-file
 dzannotti.vscode-babel-coloring
-ecmel.vscode-html-css
 esbenp.prettier-vscode
 formulahendry.auto-close-tag
 formulahendry.auto-rename-tag
@@ -29,6 +27,7 @@ formulahendry.code-runner
 heberalmeida.vue-snippets-js-html-pug-razor
 HookyQR.beautify
 howardzuo.vscode-esformatter
+ikappas.phpcs
 ionutvmi.path-autocomplete
 jeroen-meijer.pubspec-assist
 kisstkondoros.vscode-gutter-preview
@@ -44,7 +43,9 @@ ms-vsliveshare.vsliveshare
 msjsdiag.vscode-react-native
 Nash.awesome-flutter-snippets
 naumovs.color-highlight
+neilbrayfield.php-docblocker
 octref.vetur
+onecentlin.laravel-blade
 paulmolluzzo.convert-css-in-js
 PKief.material-icon-theme
 reblws.one-dark-flatland-monokai
