@@ -90,6 +90,8 @@ I personally use this settings for my VS Code
     "intelephense.completion.insertUseDeclaration": true,
     "intelephense.completion.triggerParameterHints": true,
     "intelephense.diagnostics.undefinedMethods": false,
+    "intelephense.diagnostics.undefinedFunctions": false,
+    "intelephense.diagnostics.undefinedTypes": false,
     "intelephense.files.exclude": [
         "**/.DS_Store/**",
         "**/.git/**",
