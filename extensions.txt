@@ -19,6 +19,8 @@ Dart-Code.flutter
 dbaeumer.vscode-eslint
 deerawan.vscode-faker
 dkundel.vscode-new-file
+donjayamanne.jquerysnippets
+DotJoshJohnson.xml
 dzannotti.vscode-babel-coloring
 ecmel.vscode-html-css
 esbenp.prettier-vscode
@@ -31,6 +33,7 @@ howardzuo.vscode-esformatter
 ikappas.phpcs
 ionutvmi.path-autocomplete
 jeroen-meijer.pubspec-assist
+jpoissonnier.vscode-styled-components
 kisstkondoros.vscode-gutter-preview
 leizongmin.node-module-intellisense
 marcelovelasquez.flutter-tree
