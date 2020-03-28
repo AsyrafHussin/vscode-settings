@@ -257,7 +257,13 @@ I personally use this settings for my VS Code
     "workbench.fontAliasing": "auto",
     "workbench.iconTheme": "material-icon-theme",
     "workbench.startupEditor": "newUntitledFile",
-    "workbench.tree.renderIndentGuides": "always"
+    "workbench.tree.renderIndentGuides": "always",
+    "[javascript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[html]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    }
 }
 ```
 
