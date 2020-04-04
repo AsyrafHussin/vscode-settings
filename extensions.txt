@@ -34,6 +34,7 @@ ikappas.phpcs
 ionutvmi.path-autocomplete
 jeroen-meijer.pubspec-assist
 jpoissonnier.vscode-styled-components
+jscodelover.js-snippet
 kisstkondoros.vscode-gutter-preview
 leizongmin.node-module-intellisense
 marcelovelasquez.flutter-tree
