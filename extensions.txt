@@ -11,6 +11,7 @@ alexisvt.flutter-snippets
 Atishay-Jain.All-Autocomplete
 bmewburn.vscode-intelephense-client
 brian-anders.sublime-duplicate-text
+bungcip.better-toml
 burkeholland.simple-react-snippets
 christian-kohler.npm-intellisense
 CoenraadS.bracket-pair-colorizer-2
